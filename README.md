@@ -2,7 +2,7 @@
 
 A desktop instrumentation environment and developer workstation built for macOS using [Übersicht](https://tracesof.net/uebersicht/). It provides real-time system telemetry, an interactive 7-stage tech job interview pipeline, an 8-gate SDLC project architecture tracker with full task CRUD, and an engineering curriculum matrix.
 
-![Desktop Preview](./preview.png)
+![Desktop Preview](./docs/screenshots/hero_desktop_hud.png)
 
 ---
 
@@ -10,7 +10,7 @@ A desktop instrumentation environment and developer workstation built for macOS 
 
 | Normal Desktop HUD | Job Tracker Workstation (Row-Wise Levels) |
 | :---: | :---: |
-| ![Desktop HUD](./preview.png) | ![Job Tracker Workstation](./docs/screenshots/realtime_desktop_7.png) |
+| ![Desktop HUD](./docs/screenshots/hero_desktop_hud.png) | ![Job Tracker Workstation](./docs/screenshots/realtime_desktop_7.png) |
 
 | SDLC Architecture Gate Studio (8 Gates + CRUD) | Job Application Intake Station |
 | :---: | :---: |
