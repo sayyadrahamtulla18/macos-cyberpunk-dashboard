@@ -8,13 +8,13 @@ A desktop instrumentation environment and developer workstation built for macOS 
 
 ## Real-Time Desktop Showcase
 
-| Normal Desktop HUD | Fullscreen Workstation View |
+| Normal Desktop HUD | Job Tracker Workstation (Row-Wise Levels) |
 | :---: | :---: |
-| ![Desktop HUD](./preview.png) | ![Fullscreen Workstation](./docs/screenshots/realtime_desktop_6.png) |
+| ![Desktop HUD](./preview.png) | ![Job Tracker Workstation](./docs/screenshots/realtime_desktop_7.png) |
 
-| SDLC Architecture Gate Studio | Interactive Milestone Checklist |
+| SDLC Architecture Gate Studio (8 Gates + CRUD) | Job Application Intake Station |
 | :---: | :---: |
-| ![Architecture Gates](./docs/screenshots/realtime_desktop_5.png) | ![Interactive Checklist](./docs/screenshots/realtime_desktop_1.png) |
+| ![Architecture Gates](./docs/screenshots/realtime_desktop_5.png) | ![Pipeline Intake](./docs/screenshots/realtime_desktop_6.png) |
 
 <details>
 <summary><b>Click to view more live desktop screenshots</b></summary>
@@ -25,7 +25,7 @@ A desktop instrumentation environment and developer workstation built for macOS 
 
 | Fullscreen HUD | Detail Inspection |
 | :---: | :---: |
-| ![Capture 4](./docs/screenshots/realtime_desktop_4.png) | ![Capture 7](./docs/screenshots/realtime_desktop_7.png) |
+| ![Capture 4](./docs/screenshots/realtime_desktop_4.png) | ![Interactive Checklist](./docs/screenshots/realtime_desktop_1.png) |
 
 </details>
 
